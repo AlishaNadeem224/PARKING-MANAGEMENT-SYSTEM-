@@ -1,0 +1,2 @@
+ENTRY, Slot 1, AS01Ah2200, CAR, 12:09, admin
+EXIT, Slot 1, AS01Ah2200, CAR, Entry: 12:09, Exit: 14:59, Fee: 28.33, admin
